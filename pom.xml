@@ -185,6 +185,8 @@
             <groupId>com.bencodez</groupId>
             <artifactId>VotingPlugin</artifactId>
             <version>6.7.1</version>
+            <scope>system</scope>
+            <systemPath>${res}/VotingPlugin.jar</systemPath>
         </dependency>
 
         <dependency>
