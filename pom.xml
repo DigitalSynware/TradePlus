@@ -25,11 +25,6 @@
         </repository>
 
         <repository>
-            <id>vault-repo</id>
-            <url>http://nexus.hc.to/content/repositories/pub_releases</url>
-        </repository>
-
-        <repository>
             <id>dakani</id>
             <url>https://repo.dakanilabs.com/repository/maven-public/</url>
         </repository>
