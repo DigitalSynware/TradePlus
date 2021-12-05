@@ -43,6 +43,11 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+             
+         <repository>
+             <id>BenCodez Repo</id>
+             <url>https://nexus.bencodez.com/repository/maven-public/</url>
+         </repository>
 
         <repository>
             <id>savagefactions-repo</id>
@@ -187,11 +192,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.Ben12345rocks</groupId>
+            <groupId>com.bencodez</groupId>
             <artifactId>VotingPlugin</artifactId>
-            <version>6.6.2</version>
-            <scope>system</scope>
-            <systemPath>${res}/VotingPlugin.jar</systemPath>
+            <version>6.7.1</version>
         </dependency>
 
         <dependency>
