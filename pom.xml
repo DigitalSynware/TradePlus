@@ -45,11 +45,6 @@
          </repository>
 
         <repository>
-            <id>savagefactions-repo</id>
-            <url>https://cdn.jsdelivr.net/gh/ProSavage/SavageFactions@1.6.x/</url>
-        </repository>
-
-        <repository>
             <id>aikar</id>
             <url>https://repo.aikar.co/content/groups/aikar/</url>
         </repository>
